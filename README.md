@@ -1,98 +1,99 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00c8&height=240&section=header&text=d3n127&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:1e3a8a,100:0ea5e9&height=250&section=header&text=Denmark%20Osano&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="Denmark Osano banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00C8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+d3n127+%F0%9F%91%8B;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+<a href="https://github.com/d3n127">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Front-End+Developer;UI%2FUX+Designer;Building+clean%2C+fast+%26+responsive+websites" alt="Typing animation" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/denmark-osano-b761943b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/_d3nmrk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:denmarkosano195@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=d3n127&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/d3n127?style=flat-square&logo=github&color=1e3a8a" alt="Followers" />
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=d3n127&label=Profile%20Views&color=ff00c8&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/d3n127?style=for-the-badge&logo=github&color=302b63)
+## 👋 About Me
 
-</div>
+I'm a front-end developer and UI/UX enthusiast who turns ideas into clean, fast and user-friendly websites. I care about good design, readable code and a smooth experience on every screen size.
 
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-<!-- Replace YOUR_... with your real usernames/links, delete any you don't use -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Student / Developer — *(write your college or job here)*
-- 💻 Code ➜ Eat ➜ Sleep ➜ Repeat
 - 🌐 Front-end web developer
 - 🎨 UI / UX enthusiast
 - 📚 Currently learning **Data Structures & Algorithms**
-- 🤝 Looking to collaborate on **HTML, CSS & JavaScript** projects
+- 🤝 Open to collaborating on **HTML, CSS & JavaScript** projects
 - 🎧 Fun fact: I spend hours listening to music
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+- 💻 Code ➜ Eat ➜ Travel ➜ Sleep ➜ Repeat
 
----
+<br/>
+
+## 💼 What I Can Do For You
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>🖥️ Websites</b><br/><sub>Responsive landing pages and business sites</sub></td>
+    <td align="center" width="25%"><b>🎨 UI / UX</b><br/><sub>Clean, modern and user-focused designs</sub></td>
+    <td align="center" width="25%"><b>⚛️ Web Apps</b><br/><sub>Interactive front-end apps with React</sub></td>
+    <td align="center" width="25%"><b>🔧 Fixes</b><br/><sub>Bug fixing and performance improvements</sub></td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,java,git,github,vscode,figma&theme=dark" alt="Tech stack" />
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=d3n127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00c8&icon_color=ff00c8&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3n127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00c8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=d3n127&show_icons=true&hide_border=false&border_color=1e293b&border_radius=10&bg_color=0b1220&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3n127&layout=compact&hide_border=false&border_color=1e293b&border_radius=10&bg_color=0b1220&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=d3n127&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00c8&fire=ff00c8&currStreakLabel=ff00c8" />
+<img src="https://streak-stats.demolab.com?user=d3n127&background=0b1220&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=94a3b8&stroke=1e293b&border_radius=10" alt="Streak stats" />
 
 </div>
 
----
+<br/>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d3n127&bg_color=0d1117&color=ff00c8&line=302b63&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=d3n127&bg_color=0b1220&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
----
+<br/>
 
-## 🏆 Trophies
+## 🤝 Let's Work Together
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=d3n127&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
+Have a project in mind? I'd love to hear about it.
 
 <div align="center">
 
-⭐ *Thanks for stopping by! Feel free to follow and star my repos.* ⭐
+<a href="mailto:denmarkosano195@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+<a href="https://www.linkedin.com/in/denmark-osano-b761943b7/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:1e3a8a,100:0b1220&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
